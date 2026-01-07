@@ -1,13 +1,14 @@
 <h1> 🎁 GoGift - E-commerce de Gift Cards </h1>
 
 O GoGift é uma plataforma de e-commerce inovadora focada na simplificação da venda e gestão de cartões-presente (gift cards). Nosso objetivo é democratizar o acesso a essa tecnologia, permitindo que qualquer empresa, independente do tamanho, possa criar, gerir e vender seus próprios gift cards de maneira fácil, rápida e intuitiva.
+
 ⚠️ Informação Importante sobre este Repositório
 
 Este repositório específico está sendo utilizado apenas para o armazenamento da versão estável do código.
 
 O desenvolvimento ativo, incluindo todo o histórico de commits, ramificações (branches) e evolução detalhada do sistema, está concentrado no repositório principal:
 
-<h3>🔗 Acesse o Repositório Original - [PI2025](https://github.com/GuilhermeHenriquePinheiroSilva/PI2025) </h3>
+<h3>🔗 Acesse o <a href="https://github.com/GuilhermeHenriquePinheiroSilva/PI2025" target="_blank">Repositório original</a></h3>
 
 <h2>🚀 Sobre o Projeto </h2>
 
