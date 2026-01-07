@@ -1,4 +1,4 @@
-🎁 GoGift - E-commerce de Gift Cards
+<h1> 🎁 GoGift - E-commerce de Gift Cards </h1>
 
 O GoGift é uma plataforma de e-commerce inovadora focada na simplificação da venda e gestão de cartões-presente (gift cards). Nosso objetivo é democratizar o acesso a essa tecnologia, permitindo que qualquer empresa, independente do tamanho, possa criar, gerir e vender seus próprios gift cards de maneira fácil, rápida e intuitiva.
 ⚠️ Informação Importante sobre este Repositório
@@ -7,8 +7,9 @@ Este repositório específico está sendo utilizado apenas para o armazenamento 
 
 O desenvolvimento ativo, incluindo todo o histórico de commits, ramificações (branches) e evolução detalhada do sistema, está concentrado no repositório principal:
 
-🔗 Acesse o Repositório Original - PI2025
-🚀 Sobre o Projeto
+<h3>🔗 Acesse o Repositório Original - [PI2025](https://github.com/GuilhermeHenriquePinheiroSilva/PI2025) </h3>
+
+<h2>🚀 Sobre o Projeto </h2>
 
 A plataforma GoGift resolve a complexidade logística de empresas que desejam emitir créditos digitais. Com uma interface intuitiva, o lojista consegue configurar um novo produto em minutos, enquanto o cliente final desfruta de uma experiência de compra segura e fluida.
 Principais Funcionalidades:
@@ -25,7 +26,7 @@ Principais Funcionalidades:
 
     Notificações: Sistema automático de e-mails para confirmação de pedidos e entrega de códigos.
 
-🛠️ Tecnologias Utilizadas
+<h3>🛠️ Tecnologias Utilizadas</h3>
 
 O projeto utiliza uma stack moderna e escalável:
 
@@ -39,15 +40,7 @@ O projeto utiliza uma stack moderna e escalável:
 
     Integrações: Mercado Pago (Pagamentos) e FastAPI-Mail (Comunicação).
 
-📂 Estrutura do Repositório
-Plaintext
-
-├── Client/      # Código fonte da aplicação Angular (Frontend)
-├── Server/      # Código fonte da API FastAPI (Backend)
-├── .env.example # Modelo de variáveis de ambiente
-└── run.py       # Script de automação para inicialização do projeto
-
-⚙️ Como Executar (Breve Resumo)
+<h3>⚙️ Como Executar (Breve Resumo) </h3>
 
     Backend:
 
